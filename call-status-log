@@ -1,0 +1,506 @@
+Array
+(
+    [AccountSid] => AC606e1cfc219ffe775e69d5736766cb30
+    [ToZip] => 10010
+    [FromState] => NJ
+    [Called] => +19177254001
+    [FromCountry] => US
+    [CallerCountry] => US
+    [CalledZip] => 10010
+    [Direction] => inbound
+    [FromCity] => PASSAIC
+    [CalledCountry] => US
+    [Duration] => 1
+    [CallerState] => NJ
+    [CallSid] => CA18b76204a87a0af4fd46756e7caf93ca
+    [CalledState] => NY
+    [From] => +19733567911
+    [CallerZip] => 07055
+    [FromZip] => 07055
+    [CallStatus] => completed
+    [ToCity] => NEW YORK
+    [ToState] => NY
+    [To] => +19177254001
+    [CallDuration] => 15
+    [ToCountry] => US
+    [CallerCity] => PASSAIC
+    [ApiVersion] => 2010-04-01
+    [Caller] => +19733567911
+    [CalledCity] => NEW YORK
+)
+
+Array
+(
+    [AccountSid] => AC606e1cfc219ffe775e69d5736766cb30
+    [ToZip] => 10010
+    [FromState] => NJ
+    [Called] => +19177254001
+    [FromCountry] => US
+    [CallerCountry] => US
+    [CalledZip] => 10010
+    [Direction] => inbound
+    [FromCity] => PERTH AMBOY
+    [CalledCountry] => US
+    [Duration] => 1
+    [CallerState] => NJ
+    [CallSid] => CA24171b56f84d2e8cf033ab7a5e387950
+    [CalledState] => NY
+    [From] => +17327252998
+    [CallerZip] => 08836
+    [FromZip] => 08836
+    [CallStatus] => completed
+    [ToCity] => NEW YORK
+    [ToState] => NY
+    [To] => +19177254001
+    [CallDuration] => 17
+    [ToCountry] => US
+    [CallerCity] => PERTH AMBOY
+    [ApiVersion] => 2010-04-01
+    [Caller] => +17327252998
+    [CalledCity] => NEW YORK
+)
+
+Array
+(
+    [AccountSid] => AC606e1cfc219ffe775e69d5736766cb30
+    [ToZip] => 10010
+    [FromState] => NJ
+    [Called] => +19177254001
+    [FromCountry] => US
+    [CallerCountry] => US
+    [CalledZip] => 10010
+    [Direction] => inbound
+    [FromCity] => PERTH AMBOY
+    [CalledCountry] => US
+    [Duration] => 1
+    [CallerState] => NJ
+    [CallSid] => CA3823d0236bd2e144b098c38572b5c3c2
+    [CalledState] => NY
+    [From] => +17327252998
+    [CallerZip] => 08836
+    [FromZip] => 08836
+    [CallStatus] => completed
+    [ToCity] => NEW YORK
+    [ToState] => NY
+    [To] => +19177254001
+    [CallDuration] => 17
+    [ToCountry] => US
+    [CallerCity] => PERTH AMBOY
+    [ApiVersion] => 2010-04-01
+    [Caller] => +17327252998
+    [CalledCity] => NEW YORK
+)
+
+Array
+(
+    [AccountSid] => AC606e1cfc219ffe775e69d5736766cb30
+    [ToZip] => 10010
+    [FromState] => NJ
+    [Called] => +19177254001
+    [FromCountry] => US
+    [CallerCountry] => US
+    [CalledZip] => 10010
+    [Direction] => inbound
+    [FromCity] => PASSAIC
+    [CalledCountry] => US
+    [Duration] => 1
+    [CallerState] => NJ
+    [CallSid] => CA43c1ab97cf627a5b8a799e5e2b2ded8a
+    [CalledState] => NY
+    [From] => +19733567911
+    [CallerZip] => 07055
+    [FromZip] => 07055
+    [CallStatus] => completed
+    [ToCity] => NEW YORK
+    [ToState] => NY
+    [To] => +19177254001
+    [CallDuration] => 24
+    [ToCountry] => US
+    [CallerCity] => PASSAIC
+    [ApiVersion] => 2010-04-01
+    [Caller] => +19733567911
+    [CalledCity] => NEW YORK
+)
+
+Array
+(
+    [AccountSid] => AC606e1cfc219ffe775e69d5736766cb30
+    [ToZip] => 10010
+    [FromState] => NJ
+    [Called] => +19177254001
+    [FromCountry] => US
+    [CallerCountry] => US
+    [CalledZip] => 10010
+    [Direction] => inbound
+    [FromCity] => PASSAIC
+    [CalledCountry] => US
+    [Duration] => 1
+    [CallerState] => NJ
+    [CallSid] => CAb9622cff91292364fe7d6afe5a2e65ac
+    [CalledState] => NY
+    [From] => +19733567911
+    [CallerZip] => 07055
+    [FromZip] => 07055
+    [CallStatus] => completed
+    [ToCity] => NEW YORK
+    [ToState] => NY
+    [To] => +19177254001
+    [CallDuration] => 8
+    [ToCountry] => US
+    [CallerCity] => PASSAIC
+    [ApiVersion] => 2010-04-01
+    [Caller] => +19733567911
+    [CalledCity] => NEW YORK
+)
+
+Array
+(
+    [AccountSid] => AC606e1cfc219ffe775e69d5736766cb30
+    [ToZip] => 10010
+    [FromState] => NJ
+    [Called] => +19177254001
+    [FromCountry] => US
+    [CallerCountry] => US
+    [CalledZip] => 10010
+    [Direction] => inbound
+    [FromCity] => PERTH AMBOY
+    [CalledCountry] => US
+    [Duration] => 1
+    [CallerState] => NJ
+    [CallSid] => CA5a2155217b0f744255f36d2710922a63
+    [CalledState] => NY
+    [From] => +17327252998
+    [CallerZip] => 08836
+    [FromZip] => 08836
+    [CallStatus] => completed
+    [ToCity] => NEW YORK
+    [ToState] => NY
+    [To] => +19177254001
+    [CallDuration] => 17
+    [ToCountry] => US
+    [CallerCity] => PERTH AMBOY
+    [ApiVersion] => 2010-04-01
+    [Caller] => +17327252998
+    [CalledCity] => NEW YORK
+)
+
+Array
+(
+    [AccountSid] => AC606e1cfc219ffe775e69d5736766cb30
+    [ToZip] => 10010
+    [FromState] => NJ
+    [Called] => +19177254001
+    [FromCountry] => US
+    [CallerCountry] => US
+    [CalledZip] => 10010
+    [Direction] => inbound
+    [FromCity] => PASSAIC
+    [CalledCountry] => US
+    [Duration] => 1
+    [CallerState] => NJ
+    [CallSid] => CA0c5826a399691d4ba7829313bc7a0d4a
+    [CalledState] => NY
+    [From] => +19733567911
+    [CallerZip] => 07055
+    [FromZip] => 07055
+    [CallStatus] => completed
+    [ToCity] => NEW YORK
+    [ToState] => NY
+    [To] => +19177254001
+    [CallDuration] => 10
+    [ToCountry] => US
+    [CallerCity] => PASSAIC
+    [ApiVersion] => 2010-04-01
+    [Caller] => +19733567911
+    [CalledCity] => NEW YORK
+)
+
+Array
+(
+    [AccountSid] => AC606e1cfc219ffe775e69d5736766cb30
+    [ToZip] => 10010
+    [FromState] => NJ
+    [Called] => +19177254001
+    [FromCountry] => US
+    [CallerCountry] => US
+    [CalledZip] => 10010
+    [Direction] => inbound
+    [FromCity] => PERTH AMBOY
+    [CalledCountry] => US
+    [Duration] => 1
+    [CallerState] => NJ
+    [CallSid] => CAbfabbf9955121203c6224f170c5a621b
+    [CalledState] => NY
+    [From] => +17327252998
+    [CallerZip] => 08836
+    [FromZip] => 08836
+    [CallStatus] => completed
+    [ToCity] => NEW YORK
+    [ToState] => NY
+    [To] => +19177254001
+    [CallDuration] => 12
+    [ToCountry] => US
+    [CallerCity] => PERTH AMBOY
+    [ApiVersion] => 2010-04-01
+    [Caller] => +17327252998
+    [CalledCity] => NEW YORK
+)
+
+Array
+(
+    [From] => +19733567911
+)
+
+Array
+(
+    [From] => +19733567911
+)
+
+Array
+(
+    [AccountSid] => AC606e1cfc219ffe775e69d5736766cb30
+    [ToZip] => 10010
+    [FromState] => NJ
+    [Called] => +19177254001
+    [FromCountry] => US
+    [CallerCountry] => US
+    [CalledZip] => 10010
+    [Direction] => inbound
+    [FromCity] => FREEHOLD
+    [CalledCountry] => US
+    [Duration] => 1
+    [CallerState] => NJ
+    [CallSid] => CA920e39823d58e13aa31c341277a8d996
+    [CalledState] => NY
+    [From] => +17325801799
+    [CallerZip] => 07726
+    [FromZip] => 07726
+    [CallStatus] => completed
+    [ToCity] => NEW YORK
+    [ToState] => NY
+    [To] => +19177254001
+    [CallDuration] => 2
+    [ToCountry] => US
+    [CallerCity] => FREEHOLD
+    [ApiVersion] => 2010-04-01
+    [Caller] => +17325801799
+    [CalledCity] => NEW YORK
+)
+
+Array
+(
+    [AccountSid] => AC606e1cfc219ffe775e69d5736766cb30
+    [ToZip] => 10010
+    [FromState] => MN
+    [Called] => +19177254001
+    [FromCountry] => US
+    [CallerCountry] => US
+    [CalledZip] => 10010
+    [Direction] => inbound
+    [FromCity] => MINNEAPOLIS
+    [CalledCountry] => US
+    [Duration] => 1
+    [CallerState] => MN
+    [CallSid] => CA0ff1a5bd21f437ffb268171ca44269a1
+    [CalledState] => NY
+    [From] => +16123095751
+    [CallerZip] => 55421
+    [FromZip] => 55421
+    [CallStatus] => completed
+    [ToCity] => NEW YORK
+    [ToState] => NY
+    [To] => +19177254001
+    [CallDuration] => 1
+    [ToCountry] => US
+    [CallerCity] => MINNEAPOLIS
+    [ApiVersion] => 2010-04-01
+    [Caller] => +16123095751
+    [CalledCity] => NEW YORK
+)
+
+Array
+(
+    [AccountSid] => AC606e1cfc219ffe775e69d5736766cb30
+    [ToZip] => 10010
+    [FromState] => CA
+    [Called] => +19177254001
+    [FromCountry] => US
+    [CallerCountry] => US
+    [CalledZip] => 10010
+    [Direction] => inbound
+    [FromCity] => SANTA MONICA
+    [CalledCountry] => US
+    [Duration] => 1
+    [CallerState] => CA
+    [CallSid] => CAb44e585be96a2cc87053afad7ef7852c
+    [CalledState] => NY
+    [From] => +13108834564
+    [CallerZip] => 90405
+    [FromZip] => 90405
+    [CallStatus] => completed
+    [ToCity] => NEW YORK
+    [ToState] => NY
+    [To] => +19177254001
+    [CallDuration] => 5
+    [ToCountry] => US
+    [CallerCity] => SANTA MONICA
+    [ApiVersion] => 2010-04-01
+    [Caller] => +13108834564
+    [CalledCity] => NEW YORK
+)
+
+Array
+(
+    [AccountSid] => AC606e1cfc219ffe775e69d5736766cb30
+    [ToZip] => 10010
+    [FromState] => NY
+    [Called] => +19177254001
+    [FromCountry] => US
+    [CallerCountry] => US
+    [CalledZip] => 10010
+    [Direction] => inbound
+    [FromCity] => NEW YORK
+    [CalledCountry] => US
+    [Duration] => 1
+    [CallerState] => NY
+    [CallSid] => CA4675c671693c97d94b9695d18e4f0671
+    [CalledState] => NY
+    [From] => +19179226198
+    [CallerZip] => 10024
+    [FromZip] => 10024
+    [CallStatus] => completed
+    [ToCity] => NEW YORK
+    [ToState] => NY
+    [To] => +19177254001
+    [CallDuration] => 1
+    [ToCountry] => US
+    [CallerCity] => NEW YORK
+    [ApiVersion] => 2010-04-01
+    [Caller] => +19179226198
+    [CalledCity] => NEW YORK
+)
+
+Array
+(
+    [AccountSid] => AC606e1cfc219ffe775e69d5736766cb30
+    [ToZip] => 10010
+    [FromState] => NJ
+    [Called] => +19177254001
+    [FromCountry] => US
+    [CallerCountry] => US
+    [CalledZip] => 10010
+    [Direction] => inbound
+    [FromCity] => MORRISTOWN
+    [CalledCountry] => US
+    [Duration] => 1
+    [CallerState] => NJ
+    [CallSid] => CA3d2dea0228fa3ce36fe39b91239627ad
+    [CalledState] => NY
+    [From] => +18628124490
+    [CallerZip] => 07960
+    [FromZip] => 07960
+    [CallStatus] => completed
+    [ToCity] => NEW YORK
+    [ToState] => NY
+    [To] => +19177254001
+    [CallDuration] => 4
+    [ToCountry] => US
+    [CallerCity] => MORRISTOWN
+    [ApiVersion] => 2010-04-01
+    [Caller] => +18628124490
+    [CalledCity] => NEW YORK
+)
+
+Array
+(
+    [AccountSid] => AC606e1cfc219ffe775e69d5736766cb30
+    [ToZip] => 10010
+    [FromState] => NY
+    [Called] => +19177254001
+    [FromCountry] => US
+    [CallerCountry] => US
+    [CalledZip] => 10010
+    [Direction] => inbound
+    [FromCity] => NEW YORK
+    [CalledCountry] => US
+    [Duration] => 1
+    [CallerState] => NY
+    [CallSid] => CA8f777a81f16f3c3e0e03cc38fe2b183c
+    [CalledState] => NY
+    [From] => +19175684383
+    [CallerZip] => 10010
+    [FromZip] => 10010
+    [CallStatus] => completed
+    [ToCity] => NEW YORK
+    [ToState] => NY
+    [To] => +19177254001
+    [CallDuration] => 5
+    [ToCountry] => US
+    [CallerCity] => NEW YORK
+    [ApiVersion] => 2010-04-01
+    [Caller] => +19175684383
+    [CalledCity] => NEW YORK
+)
+
+Array
+(
+    [AccountSid] => AC606e1cfc219ffe775e69d5736766cb30
+    [ToZip] => 10010
+    [FromState] => CA
+    [Called] => +19177254001
+    [FromCountry] => US
+    [CallerCountry] => US
+    [CalledZip] => 10010
+    [Direction] => inbound
+    [FromCity] => SANTA MONICA
+    [CalledCountry] => US
+    [Duration] => 1
+    [CallerState] => CA
+    [CallSid] => CA9851b19e7d075d83edfec8e57f0f3e0c
+    [CalledState] => NY
+    [From] => +13108834564
+    [CallerZip] => 90405
+    [FromZip] => 90405
+    [CallStatus] => completed
+    [ToCity] => NEW YORK
+    [ToState] => NY
+    [To] => +19177254001
+    [CallDuration] => 5
+    [ToCountry] => US
+    [CallerCity] => SANTA MONICA
+    [ApiVersion] => 2010-04-01
+    [Caller] => +13108834564
+    [CalledCity] => NEW YORK
+)
+
+Array
+(
+    [AccountSid] => AC606e1cfc219ffe775e69d5736766cb30
+    [ToZip] => 10010
+    [FromState] => CA
+    [Called] => +19177254001
+    [FromCountry] => US
+    [CallerCountry] => US
+    [CalledZip] => 10010
+    [Direction] => inbound
+    [FromCity] => SANTA MONICA
+    [CalledCountry] => US
+    [Duration] => 1
+    [CallerState] => CA
+    [CallSid] => CA30685830ebb474f3f3f35f71e376b305
+    [CalledState] => NY
+    [From] => +13108834564
+    [CallerZip] => 90405
+    [FromZip] => 90405
+    [CallStatus] => completed
+    [ToCity] => NEW YORK
+    [ToState] => NY
+    [To] => +19177254001
+    [CallDuration] => 5
+    [ToCountry] => US
+    [CallerCity] => SANTA MONICA
+    [ApiVersion] => 2010-04-01
+    [Caller] => +13108834564
+    [CalledCity] => NEW YORK
+)
+
